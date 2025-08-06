@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "http://localhost:4502/aem/start.html/bin/franklin.delivery/Anupama960/universal-editor-getting-started/main"
+    url: "https://author-p135369-e1615158.adobeaemcloud.com/bin/franklin.delivery/Anupama960/universal-editor-getting-started/main"
     type: "markup"
     suffix: ".html"
